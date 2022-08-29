@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <general>
+    <add key="logLevel" value="2"/>
+  </general>
+  <lobby/>
+  <database>
+    <mysql>
+      <add key="ip" value=""/>
+      <add key="port" value=""/>
+      <add key="name" value=""/>
+      <add key="user" value=""/>
+      <add key="pass" value=""/>
+    </mysql>
+  </database>
+</settings>
